@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenpo7-0212-utaawase",
  "yomi": "けんぽうしちねんにがつじゅうににちうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十四番）",
+  "era": "建保7年（1219）2月12日",
+  "author": "主催 順徳天皇",
+  "desc": "前日に続いて当座で催された二十四番の歌合。深山春・夕帰雁・暁更恋などの題で、院・伊平・兵衛内侍・範宗・光経・康光・範綱らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
